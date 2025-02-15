@@ -1,19 +1,30 @@
-# AI-Powered-PDF-Assistant
-# Project Overview
-A cutting-edge AI application designed to transform document analysis and content retrieval by harnessing the capabilities of Large Language Models (LLMs), Python libraries, and API integration.
+# Property Management App
 
-![AI Document Analysis](https://via.placeholder.com/800x400.png?text=AI+Document+Analysis)
+A web-based **Property Management App** built using **Streamlit**, allowing users to manage property data efficiently. The app supports adding, updating, deleting, and filtering property details such as names, types, locations, rent prices, and flat statuses. All data is stored in a **CSV file** for easy management.
 
-## Key Features
-- Seamless PDF upload and automatic extraction of textual content.
-- AI-driven question-and-answer functionality, enabling users to query document content and receive precise, context-aware responses.
-- Export generated AI responses as PDFs for easy reference and sharing.
-- **API Integration:** Provides easy integration with external systems, enabling programmatic access to the document analysis and content retrieval functionalities.
+## Features
 
-## Technologies Used
-- **Programming Language:** Python Libraries
-- **AI Integration:** Generative Large Language Models (LLM)
-- **API:** API for easy access and integration with external applications and systems.
+- **Add New Property**: Enter property details such as name, type, location, rent, and flat information. Data is stored in a CSV file.  
+- **Update Existing Property**: Modify details of an existing property using its **Property ID** and **Flat Number**.  
+- **Delete Property**: Remove a property and flat using **Property ID** and **Flat Number**.  
+- **Filter Properties**: Search properties by **location** or **flat status** (Vacant/In Use).  
+- **Data Storage**: All property data is **persistently stored** in a CSV file for easy retrieval and updates.  
 
-## Impact
-By utilizing the power of LLMs and API integration, this application significantly optimizes information retrieval, boosts productivity, and enhances document analysis with natural language understanding. Users can effortlessly interact with and extract insights from PDFs, while also integrating the solution into their existing workflows through the provided API.
+## Usage
+
+1. Open the app in a web browser.
+2. Use the **sidebar** to:
+   - **Add** a new property.  
+   - **Update** existing property details.  
+   - **Delete** a property entry.  
+   - **Filter** properties by location or flat status.  
+
+---
+
+### Built With  
+- **Streamlit** – For the user interface and interactive components.  
+- **Pandas** – For managing and manipulating property data.  
+- **CSV** – Used as the primary data storage format.  
+
+👨‍💻 **Developer**: Aneesh Mohanan  
+
