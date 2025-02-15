@@ -5,7 +5,6 @@ A web-based **Property Management App** built using **Python**, **Streamlit**, *
 ## 📷 Screenshot  
 <img src="pm.png" alt="Property Management App" width="800">
 
-*(Replace `assets/property_management_app.png` with the actual path to your image.)*
 
 ## Features
 
