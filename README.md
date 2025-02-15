@@ -1,6 +1,11 @@
 # Property Management App
 
-A web-based **Property Management App** built using **Python**, **Streamlit**, allowing users to manage property data efficiently. The app supports adding, updating, deleting, and filtering property details such as names, types, locations, rent prices, and flat statuses. All data is stored in a **CSV file** for easy management.
+A web-based **Property Management App** built using **Python**, **Streamlit**, **ML** allowing users to manage property data efficiently. The app supports adding, updating, deleting, and filtering property details such as names, types, locations, rent prices, and flat statuses. All data is stored in a **CSV file** for easy management.
+
+## 📷 Screenshot  
+<img src="assets/property_management_app.png" alt="Property Management App" width="800">
+
+*(Replace `assets/property_management_app.png` with the actual path to your image.)*
 
 ## Features
 
@@ -10,7 +15,7 @@ A web-based **Property Management App** built using **Python**, **Streamlit**, a
 - **Filter Properties**: Search properties by **location** or **flat status** (Vacant/In Use).  
 - **Data Storage**: All property data is **persistently stored** in a CSV file for easy retrieval and updates.  
 
-## Usage
+## 🚀 Usage
 
 1. Open the app in a web browser.
 2. Use the **sidebar** to:
@@ -21,10 +26,10 @@ A web-based **Property Management App** built using **Python**, **Streamlit**, a
 
 ---
 
-### Built With  
+## 🛠 Built With  
 - **Streamlit** – For the user interface and interactive components.  
-- **Python**,**Pandas** – For managing and manipulating property data.  
+- **Python**, **Pandas** , **ML**– For managing and manipulating property data.  
 - **CSV** – Used as the primary data storage format.  
 
-👨‍💻 **Developer**: Aneesh Mohanan  
-
+👨‍💻 **Developer**: Aneesh Mohanan
+📌 **License**: MIT  
