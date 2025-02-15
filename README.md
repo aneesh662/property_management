@@ -1,6 +1,6 @@
 # Property Management App
 
-A web-based **Property Management App** built using **Streamlit**, allowing users to manage property data efficiently. The app supports adding, updating, deleting, and filtering property details such as names, types, locations, rent prices, and flat statuses. All data is stored in a **CSV file** for easy management.
+A web-based **Property Management App** built using **Python**, **Streamlit**, allowing users to manage property data efficiently. The app supports adding, updating, deleting, and filtering property details such as names, types, locations, rent prices, and flat statuses. All data is stored in a **CSV file** for easy management.
 
 ## Features
 
@@ -23,7 +23,7 @@ A web-based **Property Management App** built using **Streamlit**, allowing user
 
 ### Built With  
 - **Streamlit** – For the user interface and interactive components.  
-- **Pandas** – For managing and manipulating property data.  
+- **Python**,**Pandas** – For managing and manipulating property data.  
 - **CSV** – Used as the primary data storage format.  
 
 👨‍💻 **Developer**: Aneesh Mohanan  
